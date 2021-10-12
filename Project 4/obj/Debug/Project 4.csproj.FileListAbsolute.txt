@@ -1,0 +1,12 @@
+C:\Users\root\source\repos\Project 4\Project 4\bin\Debug\Project 4.exe.config
+C:\Users\root\source\repos\Project 4\Project 4\bin\Debug\Project 4.exe
+C:\Users\root\source\repos\Project 4\Project 4\bin\Debug\Project 4.pdb
+C:\Users\root\source\repos\Project 4\Project 4\obj\Debug\Project 4.csprojAssemblyReference.cache
+C:\Users\root\source\repos\Project 4\Project 4\obj\Debug\Project_4.Form1.resources
+C:\Users\root\source\repos\Project 4\Project 4\obj\Debug\Project_4.Properties.Resources.resources
+C:\Users\root\source\repos\Project 4\Project 4\obj\Debug\Project 4.csproj.GenerateResource.cache
+C:\Users\root\source\repos\Project 4\Project 4\obj\Debug\Project 4.csproj.CoreCompileInputs.cache
+C:\Users\root\source\repos\Project 4\Project 4\obj\Debug\Project 4.exe
+C:\Users\root\source\repos\Project 4\Project 4\obj\Debug\Project 4.pdb
+C:\Users\root\source\repos\Project 4\Project 4\obj\Debug\Project_4.AddContact.resources
+C:\Users\root\source\repos\Project 4\Project 4\obj\Debug\Project_4.ShowContacts.resources

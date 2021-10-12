@@ -1,0 +1,32 @@
++++++++++++++++++++
+Name: Nicolas
+Middle Name: 
+LastName: Tesla
+Phone Number: 1111
+Address: 1a, USA
+Gender: male
+Image: img\nicolas.jpg
++++++++++++++++++++
+Name: Marie
+Middle Name: 
+LastName: Curie
+Phone Number: 222
+Address: 22a, Poland
+Gender: female
+Image: img\curie.jpg
++++++++++++++++++++
+Name: Albert
+Middle Name: 
+LastName: Einstein
+Phone Number: 333
+Address: 33c, Germany
+Gender: male
+Image: img\einst.jpg
++++++++++++++++++++
+Name: Valentina
+Middle Name: 
+LastName: Tereshkova
+Phone Number: 444
+Address: 4d, Russia
+Gender: male
+Image: img\tereshkova.jpg
